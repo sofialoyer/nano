@@ -1,6 +1,6 @@
-# Project Name
+# trash identification
 
- Add short description of project here > 
+ Searches images and looks for trash 
 
 ![add image descrition here](direct image link here)
 
