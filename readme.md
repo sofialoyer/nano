@@ -1,8 +1,8 @@
-# trash identification
+# Trash Identification
 
  Searches images and looks for trash 
 
-![add image descrition here](direct image link here)
+![Searching for trash](https://i.imgur.com/5vy0jBv.jpeg)
 
 ## The Algorithm
 
