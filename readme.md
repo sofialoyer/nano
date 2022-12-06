@@ -10,7 +10,8 @@ The project uses DetectNet (https://github.com/dusty-nv/jetson-inference/blob/ma
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Download the project and resources files
+2. Make sure to have DetectNet installed
+3. Run the following command:   python3 code.py
 
 [This is a link to my intro video](https://youtu.be/7V-a8HBzB9c)
